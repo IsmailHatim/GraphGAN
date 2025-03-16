@@ -1,5 +1,5 @@
 import tensorflow as tf
-import config
+import src.GraphGAN.config as config
 
 
 class Discriminator(object):
